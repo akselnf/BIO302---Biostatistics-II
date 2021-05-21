@@ -2,6 +2,7 @@
 #install.packages("usethis")
 
 
+####
 library(usethis)
 use_git_config(
   user.name = "akselnf", 
@@ -20,3 +21,5 @@ use_github()
 
 #0.6 Stage, commit and push
 #dfgfdgd
+
+#create_from_github("ilianauib/biomass", fork = TRUE)
