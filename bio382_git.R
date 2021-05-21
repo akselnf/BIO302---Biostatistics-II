@@ -15,3 +15,7 @@ use_git()
 
 #kjhkjh
 #drgdrgdrgdr
+
+use_github()
+
+#0.6 Stage, commit and push
