@@ -6,7 +6,7 @@ library(ggplot2)
 
 #import data
 biomass2015 <- read_excel("biomass2015.xls")
-head(biomass2015)
+view(biomass2015)
 
 
 # exclude irrelevant columns
